@@ -1,6 +1,6 @@
 # Flag-2019
 
-### 🐣 日拱一卒，每个工作日都向 GitHub 提交代码
+### 🐣 日拱一卒，每周都向 GitHub 提交代码
 
 ![GitHub contribute](https://ghchart.rshah.org/leon2017)
 
